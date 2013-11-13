@@ -2,7 +2,7 @@ City of Asheville 311 api documentation
 ===============
 
 #About 311#
-311 systems are non-emergency civic issue trackers.  Thinke potholes, water leaks, and graffitti, In this case 311 is not a phonenumber instead it is a technology that provides open channels of communication for issues that concern public space and public services.
+311 systems are non-emergency civic issue trackers.  Think potholes, water leaks, and graffitti, In this case 311 is not a phonenumber instead it is a technology that provides open channels of communication for issues that concern public space and public services.
 
 This page will attempt to document the API the City of Asheville uses so we can create "civic hacks" on the 311 data. Think info graphics, predictive anyalsis, and maps.  
 
