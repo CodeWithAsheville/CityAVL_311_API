@@ -11,7 +11,7 @@ join us for a sersis of hack nights and talks to explore the City of Asheville 3
 
 #API Documention#
 
-#Getting Started#
+###Getting Started###
 * The Offical documentation is here tps://www.publicstuff.com/developers
 * Request an API key from https://www.publicstuff.com/developers/api
 
