@@ -9,7 +9,7 @@ This page will attempt to document the API the City of Asheville uses so we can 
 join us for a sersis of hack nights and talks to explore the City of Asheville 311 data. see our meetup at http://www.meetup.com/Code-for-Asheville/
 
 
-#api Documention#
+#API Documention#
 
 #Getting Started#
 * The Offical documentation is here tps://www.publicstuff.com/developers
