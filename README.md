@@ -12,8 +12,8 @@ join us for a sersis of hack nights and talks to explore the City of Asheville 3
 #api Documention#
 
 #Getting Started#
-The Offical documentation is here tps://www.publicstuff.com/developers
-Request an API key from https://www.publicstuff.com/developers/api
+* The Offical documentation is here tps://www.publicstuff.com/developers
+* Request an API key from https://www.publicstuff.com/developers/api
 
 ###The Offical API documetentation is here###
 https://www.publicstuff.com/developers/api
@@ -21,6 +21,7 @@ https://www.publicstuff.com/developers/api
 for us the main things are as follows:
 * Asheville City client_id is 819
 * Asheville City city ID or space_id is 3737
+* you also will need an API key, request one from https://www.publicstuff.com/developers/api
 
 ###Sample API Calls###
 All return type is set to json for the samples (valid types are xml, json, or jsonp)
