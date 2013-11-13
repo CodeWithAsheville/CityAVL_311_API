@@ -39,7 +39,7 @@ Note the request type for parks - 11345 for next examples.
 
   https://www.publicstuff.com/api/2.0/requesttypes_list?client_id=819&api_key=
 
-###requests_list###  
+###requests_list###
 Get the first 100 requests for service, to report problems a city park in this cae withn 100 meters around downtown.  
 Note the lat(latitude),lon(longitude),limit(number of records to return), and nearby(distance) values.
 
