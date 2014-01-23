@@ -43,18 +43,18 @@ Note the request type for parks - 11345 for next examples.
 Get the first 100 requests for service, to report problems a city park in this cae withn 100 meters around downtown.  
 Note the lat(latitude),lon(longitude),limit(number of records to return), and nearby(distance) values.
 
-  http://www.publicstuff.com/api/2.0/requests_list?return_type=json&limit=100&lat=35.62336&request_type_id=11345&lon=-82.561531&nearby=250&api_key=[your api key]
+  http://www.publicstuff.com/api/2.0/requests_list?return_type=json&limit=100&lat=35.62336&request_type_id=11345&lon=-82.561531&nearby=250&api_key= [your api key]
 
 ###request_view###
 From the returned JSON you might want to see the full request for service for the an issue, using issue #98168 as example.
 
-  https://www.publicstuff.com/api/2.0/request_view?return_type=json&request_id=98168&api_key=[your api key]
+  https://www.publicstuff.com/api/2.0/request_view?return_type=json&request_id=98168&api_key= [your api key]
 
 ###comments_list###
 For each reuquest for service there is likely comments related to resloving the issue.  
 In this case the citizen reporting and the City Employee commuicate via the app until the issue is resolved.  
 For issue #98168 here are 6 comments.
 
-  https://www.publicstuff.com/api/2.0/comments_list?return_type=json&request_id=98168&api_key=[your api key]
+  https://www.publicstuff.com/api/2.0/comments_list?return_type=json&request_id=98168&api_key= [your api key]
 
   
