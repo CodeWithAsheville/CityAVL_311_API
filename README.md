@@ -31,13 +31,13 @@ This is not the full list of options but can hopefully get us started, the full 
 ###city_view###
 Get information about Asheville
 
-  https://www.publicstuff.com/api/2.0/city_view?return_type=json&space_id=3737&api_key=[your api key]
+  https://www.publicstuff.com/api/2.0/city_view?return_type=json&space_id=3737&api_key= [your api key]
   
 ###request_types###
 Get all valid requests types for the City of Asheville.  Request types are issues like water leaks, potholes, graffiti, and etc.
 Note the request type for parks - 11345 for next examples.
 
-  https://www.publicstuff.com/api/2.0/requesttypes_list?client_id=819&api_key=
+  https://www.publicstuff.com/api/2.0/requesttypes_list?client_id=819&api_key= [your api key]
 
 ###requests_list###
 Get the first 100 requests for service, to report problems a city park in this cae withn 100 meters around downtown.  
