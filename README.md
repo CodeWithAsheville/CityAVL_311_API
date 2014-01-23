@@ -6,7 +6,7 @@ City of Asheville 311 api documentation
 
 This page will attempt to document the API the City of Asheville uses so we can create "civic hacks" on the 311 data. Think info graphics, predictive anyalsis, and maps.  
 
-join us for a sersis of hack nights and talks to explore the City of Asheville 311 data. see our meetup at http://www.meetup.com/Code-for-Asheville/
+join us for a series of hack nights and talks to explore the City of Asheville 311 data. see our meetup at http://www.meetup.com/Code-for-Asheville/
 
 
 #API Documention#
